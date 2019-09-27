@@ -1,0 +1,6 @@
+urllib3[socks]
+requests==2.22.0
+requests[socks]
+requests[security]
+stem==1.7.1
+fake-useragent==0.1.11
